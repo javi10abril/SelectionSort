@@ -28,6 +28,7 @@ public class Main {
      */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Javier Diez Abril: ¡He aprendido mucho haciendo el módulo 8 de DAW aunque ha sido difícil!");
 
         System.out.println("Introdueix la mida de l'array: ");
         int size = scanner.nextInt();
